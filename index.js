@@ -33,7 +33,7 @@ app.get('/',( req, res) => {
 
 // Entregar uma porta
 const DB_USER = 'berg'
-const DB_PASSWORD = 'UsjY137qSKrJVtyv'
+const DB_PASSWORD = ' '
 
 mongoose
     .connect(
